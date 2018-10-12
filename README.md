@@ -1,6 +1,8 @@
 # markdown-include
 
-A very simple application adding the ability to include other markdown files in a markdown file
+A very simple application adding the ability to include other markdown files in a markdown file.
+
+This could have easily been something like a Python script, but I used this opportunity to fiddle around with dotnet publish.
 
 ## Usage
 
